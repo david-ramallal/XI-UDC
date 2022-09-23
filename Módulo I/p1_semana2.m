@@ -51,6 +51,8 @@ end;
 Ep = sum(abs(pulso).^2)
 %Ep = pulso * pulso.'
 
+%=================== Generación de ruido ==========================
+
 %Cambio a unidades naturales y calculo de No
 Eb = Ep;
 

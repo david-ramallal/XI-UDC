@@ -7,4 +7,4 @@ Examen Omnet++ -> _10'00_
 
 #### Módulo II
 Diseño CPD -> _9'40_ </br>
-Clonación -> __
+Clonación -> _10'00_
